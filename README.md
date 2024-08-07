@@ -1,6 +1,8 @@
 # credit-risk-classification
 The purpose of this analysis to establish if Logistic Regression model is the right model to identify the ceditworthiness of borrowers.
+The data used in this analysis are the loan size, interest rate, borrowers income, debt to income, nuber of accounts, deragatory marks, and total debts.
 
+The results:
 Accuracy:
 Score: 0.99
 Description: The model correctly classifies 99% of all instances across both classes.
